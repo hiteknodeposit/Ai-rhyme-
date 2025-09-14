@@ -1,0 +1,5 @@
+{
+  "name": "Rhyme Architect AI",
+  "description": "An AI-powered application that generates a music track from user-provided lyrics.",
+  "requestFramePermissions": []
+}
